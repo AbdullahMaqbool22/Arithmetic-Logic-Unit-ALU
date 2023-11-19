@@ -46,4 +46,14 @@ The ALU Arithmetic and Logic Operation project is designed as the final project 
 4. Define pins for inputs and outputs on the FPGA.
 5. Display the output using LEDs.
 
-Feel free to explore and modify the code for your specific requirements. Contributions and improvements are welcome!
+## Contributions
+
+We welcome contributions to this project! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to create issues or submit pull requests.
+
+## License
+
+This project is licensed by MIT license.
+
+## Contact
+
+For any inquiries or support, please contact Abdullah at abdullahmaqbool08@gmail.com.
